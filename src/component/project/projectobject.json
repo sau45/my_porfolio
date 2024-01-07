@@ -1,0 +1,57 @@
+[
+    {
+        "name":"MovieVerse",
+        "image":["https://i.pinimg.com/564x/3d/dd/a1/3ddda1a556bc09a817840d2fe266f111.jpg"],
+        "alt":"movie_img",
+        "description":"Our Movie Recommendation Website is a user-friendly and intuitive platform that offers personalized movie recommendations. It employs advanced algorithms to analyze user behavior, movie metadata, and previous movie ratings to generate accurate and relevant movie suggestions.",
+        "features": [
+            "Personalized Recommendations: Users can create an account and provide their movie preferences to receive tailored movie recommendations.",
+            "Browse Movies: Users can explore a vast collection of movies with filters for genres, release dates, and ratings.",
+            "Search Functionality: A powerful search feature allows users to find specific movies by title, actors, directors, or keywords.",
+            "Rating and Reviews: Users can rate and review movies, helping to improve future recommendations and aiding other users in their decision-making process.",
+            "Watchlist: Users can maintain a personalized watchlist to keep track of movies they plan to watch in the future.",
+            "Social Sharing: Users can share their favorite movies and recommendations with friends on various social media platforms.",
+            "Responsive Design: The website is optimized for various devices, including desktops, tablets, and mobile phones, ensuring a seamless user experience."
+          ],
+          "technologies":"Technologies: javascript",
+          "deployed_link":"https://fully-fledged-react-app.vercel.app/",
+          "github_link":"https://github.com/sau45/fully_Fledged_ReactApp"
+          
+        
+
+    } ,
+    {
+        "name":"Book Show",
+        "image":["https://i.pinimg.com/564x/ee/de/38/eede38701aa7245c53890933b7a87bc6.jpg"],
+        "description":"Our Movie Recommendation Website is a user-friendly and intuitive platform that offers personalized movie recommendations. It employs advanced algorithms to analyze user behavior, movie metadata, and previous movie ratings to generate accurate and relevant movie suggestions.",
+        "features": [
+            "Efficient integration of API calls for real-time data fetching of over 500 shows.",
+            "Utilization of React.js for a responsive and modern user interface.",
+            "Optimized API data fetching with a 30% reduction in loading times using fetch and axios methods.",
+            "User-friendly design with intuitive navigation and exploration of detailed show information."
+               ],
+          "technologies": "Technologies: javascript ,   React.js ,   Bootstrap ,  HTML  ,  CSS",
+           "github_link":"https://github.com/sau45/book_the_show_by_React"
+        
+
+    },
+    {
+        "name":"E-Commerce",
+        "image":["https://i.pinimg.com/564x/56/3f/8b/563f8b4e767bffe4b0f71522f2d419fc.jpg"],
+        "description":"Conceived and executed a dynamic product catalog with a focus on efficiency and versatility. Implemented Redux Toolkit for state management, ensuring optimal performance and a responsive user interface. Developed a secure user registration and login system with JWT Authentication, leading to a 90% reduction in unauthorized access attempts.",
+
+        "features": [
+            "Efficient handling of diverse products",
+            "Seamless user navigation",
+            "Dynamic presentation of product information",
+            "Optimal performance with Redux Toolkit",
+            "Responsive user interface",
+            "Secure user registration and login",
+            "JWT Authentication for enhanced security",
+            "90% reduction in unauthorized access attempts"   ],
+        "technologies":"Technologies: React.js for frontend development,Redux Toolkit for state management, Node.js for backend development,Express.js for server implementation, JWT Authentication for secure user access",
+        "github_link":"https://github.com/sau45/E-commerce_Site.git"
+        
+
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "tech_name":"frontend",
+        "tech_img":[
+            {
+                "img":"https://chrischindev.com/assets/tech/reactlogo2.png",
+                "title":"react"
+            },{
+                "img":"https://chrischindev.com/assets/tech/reduxlogo2.png",
+                "title":"redux"
+            },{
+                "img":"https://chrischindev.com/assets/tech/htmllogo.png",
+                "title":"html"
+            },
+            {
+                "img":"https://chrischindev.com/assets/tech/csslogo.png",
+                "title":"css"
+                
+            },{
+                "img":"https://chrischindev.com/assets/tech/jquery.png",
+                "title":"jquery"
+            },{
+                "img":"https://chrischindev.com/assets/tech/bootstraplogo.png",
+                "title":"bootstrap"
+
+            },{
+                "img":"https://i.pinimg.com/564x/32/9a/d8/329ad85f4ab2047cae13d582274f9270.jpg",
+                "title":"Next js"
+            }
+        ]
+        
+    },
+    {
+        "tech_name":"backend",
+        "tech_img":[
+            {
+                "img":"https://chrischindev.com/assets/tech/nodelogo.png",
+                "title":"node"
+            },{
+                "img":"https://chrischindev.com/assets/tech/expresslogo2.png",
+                "title":"express"
+            }
+           
+        ]
+    },
+    {
+        "tech_name":"devops",
+        "tech_img":[
+            {
+                "img":"https://chrischindev.com/assets/tech/gitlogo.png"
+            },{
+                "img":"https://chrischindev.com/assets/tech/githublogo.png"
+            }
+               
+        ]
+    },
+    {
+        "tech_name":"languages",
+        "tech_img":[
+            {
+                "img":"https://chrischindev.com/assets/tech/jslogo.png"
+            },{
+                "img":"https://chrischindev.com/assets/tech/c++.png"
+            }
+        ]
+    },
+    {
+        "tech_name":"tools",
+        "tech_img":[
+            {
+                "img":"https://chrischindev.com/assets/tech/vscode.png"
+            },{
+                "img":"https://chrischindev.com/assets/tech/postman.png"
+            }
+        ]
+    }
+  
+]
