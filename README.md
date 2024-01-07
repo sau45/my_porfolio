@@ -5,45 +5,15 @@ Welcome to my personal portfolio! This space is dedicated to showcasing who I am
 ## Table of Contents
 
 - [About Me](#about-me)
-- [Projects Showcase](#projects-showcase)
-- [Work Experience](#work-experience)
-- [Education and Certifications](#education-and-certifications)
+- [Education](#education)
 - [Contact Information](#contact-information)
 
 ## About Me
+Hi , I am Saurav Bharti 
+As a Computer Science Engineering student at Panjab University Swami Sarvanand Giri Regional Center, I am deeply passionate about technology and eager to contribute to the ever-evolving field of computer science. My academic journey has equipped me with a strong foundation in programming languages, algorithms , and software development. Through hands-on projects and coursework, I have honed my skills in areas such as web development, data structures, and machine learning.
 
-I'm [Your Name], a [Your Profession/Title] passionate about [Your Interests or Specializations]. With a background in [Your Field], I aim to [Brief Statement about Your Goals or Vision].
 
-### Skills
-
-- Skill 1
-- Skill 2
-- ...
-
-## Projects Showcase
-
-Explore some of my notable projects that demonstrate my skills and creativity. Each project includes a brief description, the technologies used, and any noteworthy achievements.
-
-1. **Project Name 1**
-   - Description: [Brief description of the project]
-   - Technologies: [Tech stack used]
-   - Achievements: [Any notable achievements or challenges overcome]
-
-2. **Project Name 2**
-   - ...
-
-## Work Experience
-
-In this section, I highlight my professional experience, roles, responsibilities, and key achievements in each position.
-
-1. **Job Title - Company Name**
-   - Duration: [Month Year - Month Year]
-   - Responsibilities: [List of responsibilities and achievements]
-
-2. **Job Title - Company Name**
-   - ...
-
-## Education and Certifications
+## Education 
 
 A glimpse into my educational background.
 
@@ -65,8 +35,8 @@ I'm always open to connecting with like-minded individuals. If you have any ques
 Thank you for visiting my portfolio! 🚀
 
 
-                              ![image](https://github.com/sau45/my_porfolio/assets/87286258/2772c68f-e23b-4869-8a93-400689210157)
+                              !(https://github.com/sau45/my_porfolio/assets/87286258/2772c68f-e23b-4869-8a93-400689210157)
 
-                              ![image](https://github.com/sau45/my_porfolio/assets/87286258/008b6d55-dd57-400d-8f26-1f5fed2ee095)
+                              !(https://github.com/sau45/my_porfolio/assets/87286258/008b6d55-dd57-400d-8f26-1f5fed2ee095)
 
 
