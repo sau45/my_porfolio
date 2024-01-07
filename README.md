@@ -35,8 +35,8 @@ I'm always open to connecting with like-minded individuals. If you have any ques
 Thank you for visiting my portfolio! 🚀
 
 
-                              !(https://github.com/sau45/my_porfolio/assets/87286258/2772c68f-e23b-4869-8a93-400689210157)
+![image](https://github.com/sau45/my_porfolio/assets/87286258/f8dd22d1-c2cf-4f9a-bbaa-bd335d5316c2)
 
-                              !(https://github.com/sau45/my_porfolio/assets/87286258/008b6d55-dd57-400d-8f26-1f5fed2ee095)
+![image](https://github.com/sau45/my_porfolio/assets/87286258/5cf5724a-cf0e-4e0b-a4c0-62908c6084fb)
 
 
