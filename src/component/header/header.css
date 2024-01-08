@@ -7,6 +7,7 @@
     position: fixed;
     width: 100%;
     z-index: 1;
+    height: 7vh;
 }
 .header_logo{
     padding-left: 2rem;
@@ -45,19 +46,87 @@
 .hamberger_menu{
     display: none;
 }
+.for_mobile_view{
+    display: none;
+}
+
 @media (max-width:700px) {
     .header_content{
         display: none;
     }
+    .header_logo_active{
+        align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 14vh;
+    }
+    .header_logo_active img{
+        width: 48px;
+        margin-left: 39px;
+        border-radius: 3px;
+    }
+
     .hamberger_menu{
         display: block;
-       
-    
+    }
+    .hambergermenu_Active{
+        display: none;
+    }
+    .for_mobile_view{
+        display: block;
+        position: absolute;
+         right: 40px;
+    }
+    .for_mobile_view_active{
+    display: block;
+    position: absolute;
+    right: 39px;
+    top: 33px;
     }
     .hamberger_menu img{
         width: 30px;
         padding-right: 12px;
 
+    }
+    .header_container_active{
+        position: fixed;
+        background: white;
+        background: #e9e1e1e6;
+        width: 100%;
+        z-index: 1000;
+        height: 100vh;
+    }
+    .header_content_active{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .header_content_list_active{
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+    }
+    .header_content_list_active li{
+        list-style: none;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-weight: bold;
+        font-size: 13px;
+        cursor: pointer;
+    }
+    .header_content_list_active a{
+        position: relative;
+        text-decoration: none;
+        color: #444242;
+    }
+    .header_content_list_active a:after{
+        position: absolute;
+        bottom: 0;
+        content: "";
+        height: 3px;
+        left: 50%;
+        background: #53ed6a;
+        transition: width 0.3s ease 0s, left 0.3s ease 0s;
     }
     
 }
