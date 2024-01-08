@@ -4,7 +4,7 @@
     align-items: center;
     justify-content: center;
     gap: 2rem;
-    padding-top: 3.65rem;
+    padding-top: 10.3rem;
 }
 .contact_container h1{
     color: #333333;
@@ -47,6 +47,9 @@
     gap: 0.3rem;
 }
 @media (max-width:700px) {
+    .contact_container{
+        padding-bottom: 9rem;
+    }
     .contact_container h1{
         font-size: 3rem;
     }
