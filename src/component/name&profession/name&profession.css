@@ -12,7 +12,6 @@
 .name_content {
     display: flex;
     flex-direction: column;
-   padding-bottom: 2rem;
     align-items: flex-start;
     gap: 1rem;
 }
@@ -88,6 +87,7 @@
     }
     .name_content{
         text-align: center;
+        padding-bottom: 2rem;
     }
     .name_content h3{
         font-size: 2rem;
