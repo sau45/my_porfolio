@@ -16,14 +16,29 @@
     width: 20%;
    
 }
+.about_img{
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem;
+}
+.text{
+    width: 70%;
+    overflow: auto;
+    height: 50vh;
+}
 .about_img img{
-    width: 80%;
+    width: 224px;
     border-top-left-radius: 30%;
     border-bottom-right-radius: 30%;
 }
 .img_about_text{
     display: flex;
     align-items: center;
+    justify-content: center;
+    padding-top: 1rem;
+    gap: 1rem;
 }
 .text p{
     color: #333333;

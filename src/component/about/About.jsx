@@ -3,15 +3,40 @@ import './about.css'
 import Lazyloader from '../lazyloading/Lazyloader'
 import profile_img from '../../assets/profileimage.jpeg'
 import ContentWrapper from '../contentwrapper/ContentWrapper'
+import LearnTech from '../learntech/LearnTech'
+import { motion } from 'framer-motion'
+
 
 
 function About() {
   return (
     <ContentWrapper>
 
-    <div className='about_container'>
-        <div className="about_headline"><h1>About Me</h1></div>
-        <div className="img_about_text">
+    <motion.div
+    initial={{
+      opacity:0, 
+      scale:0
+    }}
+    
+    whileInView={{
+      opacity:1,
+      scale:1
+    }}
+
+    transition={{duration:0.6}}
+    viewport={{once:true}}
+     className='about_container'>
+        <motion.div 
+        initial={{opacity:0,scale:0}}
+        whileInView={{opacity:1,scale:1}}
+        transition={{duration:1}}
+
+         className="about_headline"><h1>About Me</h1></motion.div>
+        <div 
+        initial={{y:-1000}}
+        animate={{y:0}}
+        
+        className="img_about_text">
             <div className="about_img">
                 <Lazyloader src={profile_img}/>
             </div>
@@ -26,7 +51,8 @@ function About() {
         </div>
       
       
-    </div>
+    </motion.div>
+    <LearnTech />
     </ContentWrapper>
   )
 }

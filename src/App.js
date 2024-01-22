@@ -10,13 +10,17 @@ import Resume from './component/resume/Resume';
 // import LearnTech from './component/learntech/LearnTech';
 import Contact from './component/contact/Contact';
 import Footer from './component/footer/Footer';
+import { motion, useScroll } from "framer-motion"
+
 
 
 
 function App() {
+  const { scrollYProgress } = useScroll();
   return (
     <>
         <Header />
+        <motion.div className='progress-bar' style={{ scaleX: scrollYProgress }} />  
       <Routes>
         <Route path='/' Component={NameAndProfession}></Route>
         <Route path='/project' Component={Project}></Route>

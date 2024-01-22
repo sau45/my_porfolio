@@ -7,6 +7,17 @@
   pointer-events: none;
 }
 
+.progress-bar {
+  position: fixed;
+  top: 63px;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: red;
+  transform-origin: 0%;
+  z-index: 1000;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

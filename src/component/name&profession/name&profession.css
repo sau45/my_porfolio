@@ -1,9 +1,11 @@
 .name_container {
     display: flex;
+    position: relative;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-top: 7.6rem;
+    padding-top: 2.6rem;
+    width: 100%;
 }
 
 
@@ -29,6 +31,19 @@
     width: fit-content;
     margin: 0;
 }
+.job_role{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+}
+.role{
+    font-size: 3rem;
+    font-weight: 900;
+    color: #716f6f;
+}
 
 .view_project {
     padding: 5rem;
@@ -46,9 +61,24 @@
 .view_project a:hover {
     background-color: #ccc5c5;
 }
+
+.backslide{
+    position: absolute;
+    height: 50vh;
+    white-space: nowrap;
+    color: gray;
+    opacity: 0.25;
+    width: 50%;
+    font-weight: bold;
+    font-size: 3rem;
+    z-index: -1000;
+    text-transform: uppercase;
+    
+}
 @media (max-width:700px) {
     .name_container{
         padding-bottom: 7.8rem;
+        padding-top: 7rem;
     }
     .view_project{
        padding: 0;
@@ -65,5 +95,11 @@
     }
     .name_content h1{
         font-size: 5rem;
+    }
+    .backslide{
+        display: none;
+    }
+    .role{
+        font-size: 1.3rem;
     }
 }
